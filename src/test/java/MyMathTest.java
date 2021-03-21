@@ -35,7 +35,7 @@ public class MyMathTest {
                 //multiplication
                 {Math.PI, 2.71, 3, 8.5094},
                 //division
-                {4.0, 0.1, 4, 2.0},
+                {4.0, Math.E, 4, 2.0},
                 //Wrong option
                 {42.0, 42.0, 4, 42.0}
         };
